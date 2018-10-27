@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Rania Ashraf"]
   spec.email         = ["raniaashraf1@live.com"]
 
-  spec.summary       = ["lets-shortify is a simple Rails gem that shortens URL"]
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = ["URL Shortening is a simple Rails gem that shortens URL"]
+  spec.homepage      = "https://github.com/raniaashraf/url_shortening"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
